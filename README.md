@@ -4,7 +4,6 @@ Welcome to the final repository of my **100-Day Web3 Builder Journey**. After sp
 
 ## 🛠️ Tech Stack Used Here
 * **Smart Contracts:** Solidity, Foundry/Hardhat
-* **Automation:** Gelato Network
 * **Storage & Hosting:** Arweave, Irys (Bundlr)
 * **Frontend:** React / Next.js (Static Export)
 
